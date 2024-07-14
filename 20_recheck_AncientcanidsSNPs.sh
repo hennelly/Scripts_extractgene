@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#SBATCH --job-name=Dstat_ancient
+#SBATCH --job-name=SNPs_ancient
 #SBATCH -c 1
 #SBATCH --time 1:20:00
 #SBATCH --mem-per-cpu 1G
